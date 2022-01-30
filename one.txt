@@ -4,10 +4,5 @@ this is first document
 This is second branch comment
 
 
-this is third branch comment
+I am working on learning about stash
 
-I have completed this file as well.
-
-This is test data for git pull.
-
-Testing stash data for the environment 
